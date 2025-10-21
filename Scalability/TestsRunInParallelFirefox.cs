@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoSystemTests.Scalability.Tests
+namespace DemoSystemTests.Scalability
 {
     internal class TestsRunInParallelFirefox
     {
